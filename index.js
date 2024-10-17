@@ -1,5 +1,6 @@
 const numberA = 1000;
 const numberB = 2000;
+console.log('numberA:', numberA);
 
 const sum = numberA + numberB;
 
