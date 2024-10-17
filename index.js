@@ -1,5 +1,5 @@
-const numberA = 1000;
-const numberB = 2000;
+const numberA = 5000;
+const numberB = 5000;
 
 const sum = numberA + numberB;
 
