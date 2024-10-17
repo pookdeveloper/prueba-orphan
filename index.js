@@ -2,7 +2,7 @@ const numberA = 5000;
 const numberB = 5000;
 console.log('numberA:', numberA);
 
-const sum = numberA + numberB;
+const sum = numberA + numberB / 1200;
 
 module.exports = {
   numberA,
