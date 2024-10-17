@@ -5,6 +5,7 @@ const sum = numberA + numberB;
 
 
 console.log('Sum of numberA and numberB is: ', sum);
+console.log('Sum of numberA and numberB is: ', sum);
 
 module.exports = {
   numberA,
